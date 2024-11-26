@@ -27,10 +27,15 @@ Java Collections Framework
 
 Prerequisites
 Java Development Kit (JDK)
-Git installed on the computer
-
 
 Installation
+
+1.Download the git into a zip.
+2.Unzip the file and copy the path, or directly open into terminal(if running on Windows).
+3.While in the terminal compile the code using the command javac MatchCards.java 
+4.Lastly, run the program with the commnand java MatchCards 
+
+Enjoy playing this small simple fruit matching card game! 
 
 
 
