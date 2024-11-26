@@ -27,6 +27,8 @@ Java Collections Framework
 
 Prerequisites
 Java Development Kit (JDK)
+Git installed on the computer
+
 
 Installation
 
